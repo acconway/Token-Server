@@ -1,0 +1,11 @@
+://Login
+
+curl -X POST -d 'userID=[USERID]' localhost:8080/Login
+
+//Add Friend 
+
+curl -X POST localhost:8080/User/[USERID]/addFriend
+
+//Add transaction
+
+curl -X POST -d 'senderID=12&recipientID=15&tokenValue=a&actionName=testing' localhost:8080/addTransaction
