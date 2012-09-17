@@ -2,9 +2,13 @@
   "description": "Server for Token Project Alpha",
   "version": "0.0.0",
   "private": true,
+"engines":{
+"node":"0.8.8" 
+},
   "dependencies": {
     "union": "0.3.0",
-    "flatiron": "0.2.2"
+    "sequelize":"1.5.0",
+    "flatiron":"0.2.2"
   },
   "devDependencies": {
     "api-easy": "0.3.2",
