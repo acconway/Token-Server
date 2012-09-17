@@ -8,7 +8,8 @@
   "dependencies": {
     "union": "0.3.0",
     "sequelize":"1.5.0",
-    "flatiron":"0.2.2"
+    "flatiron":"0.2.2",
+    "pg": "0.6.15"
   },
   "devDependencies": {
     "api-easy": "0.3.2",
