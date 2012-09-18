@@ -6,10 +6,10 @@ var login = require('./lib/Routes/login'), addFriend = require('./lib/Routes/add
 
 //Models
 
-//var Users, Transactions;
+var Users, Transactions;
 
 //Global Functions
-/*
+
 exports.logError = function(res, code, message) {
 	app.log.info(message);
 	var errorJSON = {
@@ -37,11 +37,6 @@ exports.isValidDate = function(d) {
 	return !isNaN(d.getTime());
 };
 
-//Config
-
-app.config.file({
-	file : path.join(__dirname, 'config', 'config.json')
-});*/
 
 app.use(flatiron.plugins.http);
 
