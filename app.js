@@ -82,7 +82,7 @@ exports.setUsersAndTransactions = function(_Users, _Transactions) {
 
 //Get going
 
-//database.init(this, app);
+database.init(this, app);
 
 var port = process.env.PORT || 5000;
 
