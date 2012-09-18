@@ -2,7 +2,7 @@
 var flatiron = require('flatiron'), path = require('path'), app = flatiron.app;
 
 //App modules
-//var login = require('./lib/Routes/login'), addFriend = require('./lib/Routes/addFriend'), addTransaction = require('./lib/Routes/addTransaction'), syncTransactions = require('./lib/Routes/syncTransactions'), database = require('./lib/database');
+var login = require('./lib/Routes/login'), addFriend = require('./lib/Routes/addFriend'), addTransaction = require('./lib/Routes/addTransaction'), syncTransactions = require('./lib/Routes/syncTransactions'), database = require('./lib/database');
 
 //Models
 
