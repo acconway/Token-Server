@@ -50,25 +50,25 @@ app.router.get('/version', function() {
 
 //Routing
 
-//app.router.post('/login', function() {
-	//login.handleRoute(this.req, this.res);
-//});
+app.router.post('/login', function() {
+	login.handleRoute(this.req, this.res);
+});
 
-//app.router.post('/user/:userID:/addTransaction', function(userID) {
-	//addTransaction.handleRoute(userID, this.req, this.res);
-//});
+app.router.post('/user/:userID:/addTransaction', function(userID) {
+	addTransaction.handleRoute(userID, this.req, this.res);
+});
 
-//app.router.post('/user/:userID/syncTransactions', function(userID) {
-	//syncTransactions.handleRoute(userID, this.req, this.res);
-//});
+app.router.post('/user/:userID/syncTransactions', function(userID) {
+	syncTransactions.handleRoute(userID, this.req, this.res);
+});
 
-//app.router.post('/user/:userID/addFriend', function(userID) {
-	//addFriend.handleRoute(userID, this.req, this.res);
-//});
+app.router.post('/user/:userID/addFriend', function(userID) {
+	addFriend.handleRoute(userID, this.req, this.res);
+});
 
 //After models are initialized, setup routing pathways
 
-/*exports.setUsersAndTransactions = function(_Users, _Transactions) {
+exports.setUsersAndTransactions = function(_Users, _Transactions) {
 
 	Users = _Users;
 	Transactions = _Transactions;
@@ -78,7 +78,8 @@ app.router.get('/version', function() {
 	addTransaction.init(this, app, Users, Transactions);
 	syncTransactions.init(this, app, Users);
 
-}*/
+};
+
 //Get going
 
 //database.init(this, app);
