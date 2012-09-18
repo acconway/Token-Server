@@ -1,0 +1,15 @@
+://Login
+
+curl -X POST -d 'userID=1' localhost:8080/login
+
+//Add Friend 
+
+curl -X POST -d 'friendID=2' localhost:8080/user/1/addFriend
+
+//Add transaction
+
+curl -X POST -d 'recipientID=2&tokenValue=1&actionName=testing' localhost:8080/user/1/addTransaction
+
+//Sync transactions
+
+curl -X POST -d 'lastTransaction=0' localhost:8080/user/1/syncTransactions
