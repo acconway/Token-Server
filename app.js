@@ -40,14 +40,6 @@ exports.isValidDate = function(d) {
 
 app.use(flatiron.plugins.http);
 
-app.router.get('/version', function() {
-    
-    this.res.writeHead(200, {
-        'Content-Type' : 'text/plain'
-    })
-    this.res.end('flatiron ' + flatiron.version);
-});
-
 //Routing
 
 app.router.post('/login', function() {
