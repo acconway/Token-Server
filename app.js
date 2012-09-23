@@ -2,7 +2,7 @@
 var flatiron = require('flatiron'), path = require('path'), app = flatiron.app;
 
 //App modules
-var login = require('./lib/Routes/login'), addFriend = require('./lib/Routes/addFriend'), getFriends = require("./lib/Routes/getFriends"), addTransaction = require('./lib/Routes/addTransaction'), syncTransactions = require('./lib/Routes/syncTransactions'), database = require('./lib/database');
+var login = require('./lib/Routes/login'), addFriend = require('./lib/Routes/addFriend'), getFriends = require("./lib/Routes/getFriends"), addTransaction = require('./lib/Routes/addTransaction'), syncTransactions = require('./lib/Routes/syncTransactions'), syncAllTransactions = require('./lib/Routes/syncAllTransactions'), database = require('./lib/database');
 
 //Models
 
@@ -46,6 +46,10 @@ app.router.post('/login', function() {
 	login.handleRoute(this.req, this.res);
 });
 
+app.router.post('/syncAllTransactions', function(){
+	syncAllTransactions.handleRoute(this.req,this.res);
+}); 
+
 app.router.post('/user/:userID:/addTransaction', function(userID) {
 	addTransaction.handleRoute(userID, this.req, this.res);
 });
@@ -74,6 +78,7 @@ exports.setUsersAndTransactions = function(_Users, _Transactions) {
 	getFriends.init(this, app, Users);
 	addTransaction.init(this, app, Users, Transactions);
 	syncTransactions.init(this, app, Users);
+	syncAllTransactions.init(this, app, Transactions);
 
 };
 
