@@ -1,0 +1,503 @@
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,37,'2012-11-15 20:09:46.42000','2012-11-15 20:09:46.43000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,45,'2012-11-15 20:09:46.48000','2012-11-15 20:09:46.48000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,41,'2012-11-15 20:09:46.45000','2012-11-15 20:09:46.45000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,42,'2012-11-15 20:09:46.47000','2012-11-15 20:09:46.47000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,43,'2012-11-15 20:09:46.47000','2012-11-15 20:09:46.47000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,39,'2012-11-15 20:09:46.43000','2012-11-15 20:09:46.43000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,40,'2012-11-15 20:09:46.44000','2012-11-15 20:09:46.45000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,44,'2012-11-15 20:09:46.47000','2012-11-15 20:09:46.47000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,46,'2012-11-15 20:09:46.48000','2012-11-15 20:09:46.48000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,47,'2012-11-15 20:09:46.48000','2012-11-15 20:09:46.48000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,48,'2012-11-15 20:09:46.49000','2012-11-15 20:09:46.49000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,52,'2012-11-15 20:09:46.51000','2012-11-15 20:09:46.51000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,49,'2012-11-15 20:09:46.49000','2012-11-15 20:09:46.49000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,53,'2012-11-15 20:09:46.51000','2012-11-15 20:09:46.51000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,50,'2012-11-15 20:09:46.50000','2012-11-15 20:09:46.50000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,51,'2012-11-15 20:09:46.50000','2012-11-15 20:09:46.50000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,57,'2012-11-15 20:09:46.53000','2012-11-15 20:09:46.53000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,58,'2012-11-15 20:09:46.53000','2012-11-15 20:09:46.54000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,59,'2012-11-15 20:09:46.54000','2012-11-15 20:09:46.54000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,60,'2012-11-15 20:09:46.54000','2012-11-15 20:09:46.54000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,61,'2012-11-15 20:09:46.54000','2012-11-15 20:09:46.55000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,62,'2012-11-15 20:09:46.55000','2012-11-15 20:09:46.55000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,54,'2012-11-15 20:09:46.51000','2012-11-15 20:09:46.51000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,55,'2012-11-15 20:09:46.52000','2012-11-15 20:09:46.52000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,56,'2012-11-15 20:09:46.53000','2012-11-15 20:09:46.53000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: info: Added transaction to sender: 4305305
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: UPDATE "Users" SET "userID"='4305305',"name"=NULL,"registrationPlatform"=NULL,"lastTransactionTime"='2012-11-15 20:09:44.424000',"id"=1,"createdAt"='2012-10-05 6:55:03.401000',"updatedAt"='2012-11-15 20:09:46.295000' WHERE "id"=1
+2012-11-15T20:09:46+00:00 app[web.1]: info: Updated last transaction time for sender: 4305305
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT "Users".* FROM "Users", "FriendsUsers" WHERE "FriendsUsers"."UserId"=1 AND "FriendsUsers"."FriendsId"="Users"."id";
+2012-11-15T20:09:46+00:00 app[web.1]: info: User 4305305 already has friend 1063230066
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=4 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=4 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=10 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=9 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=12 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=20 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=18 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=15 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=16 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=17 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=32 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=33 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=34 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=35 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=36 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=37 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=38 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=39 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=40 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=41 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=42 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=43 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=44 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=45 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=46 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=48 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=49 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=50 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=51 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=52 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=53 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=54 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=55 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=56 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=57 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=58 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=59 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=61 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=13 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=22 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=23 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=24 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=25 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=26 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=27 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=28 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=29 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=30 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=4 AND "TransactionId"=31 LIMIT 1;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=9 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=10 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=12 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=13 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=15 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=16 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=17 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=18 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=20 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=22 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=23 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=24 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=25 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=26 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=27 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=31 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=28 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=29 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=30 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=33 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=32 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=34 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=35 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=37 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=36 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=38 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=39 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=40 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=41 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=42 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=43 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=44 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=45 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=46 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=48 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=49 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=50 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=51 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=52 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=53 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=54 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=55 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=56 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=57 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=58 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=59 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=61 AND "UserId"=4 LIMIT 1)
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,9,'2012-11-15 20:09:46.844000','2012-11-15 20:09:46.844000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,10,'2012-11-15 20:09:46.844000','2012-11-15 20:09:46.844000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,12,'2012-11-15 20:09:46.845000','2012-11-15 20:09:46.845000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,23,'2012-11-15 20:09:46.847000','2012-11-15 20:09:46.848000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,24,'2012-11-15 20:09:46.848000','2012-11-15 20:09:46.848000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,25,'2012-11-15 20:09:46.848000','2012-11-15 20:09:46.848000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,26,'2012-11-15 20:09:46.848000','2012-11-15 20:09:46.849000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,27,'2012-11-15 20:09:46.849000','2012-11-15 20:09:46.849000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,28,'2012-11-15 20:09:46.849000','2012-11-15 20:09:46.849000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,29,'2012-11-15 20:09:46.849000','2012-11-15 20:09:46.850000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,30,'2012-11-15 20:09:46.850000','2012-11-15 20:09:46.850000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,31,'2012-11-15 20:09:46.850000','2012-11-15 20:09:46.850000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,13,'2012-11-15 20:09:46.845000','2012-11-15 20:09:46.845000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,15,'2012-11-15 20:09:46.846000','2012-11-15 20:09:46.846000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,16,'2012-11-15 20:09:46.846000','2012-11-15 20:09:46.846000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,17,'2012-11-15 20:09:46.846000','2012-11-15 20:09:46.846000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,18,'2012-11-15 20:09:46.847000','2012-11-15 20:09:46.847000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,20,'2012-11-15 20:09:46.847000','2012-11-15 20:09:46.847000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,22,'2012-11-15 20:09:46.847000','2012-11-15 20:09:46.847000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,35,'2012-11-15 20:09:46.851000','2012-11-15 20:09:46.851000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,36,'2012-11-15 20:09:46.852000','2012-11-15 20:09:46.852000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,37,'2012-11-15 20:09:46.852000','2012-11-15 20:09:46.852000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,38,'2012-11-15 20:09:46.852000','2012-11-15 20:09:46.852000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,39,'2012-11-15 20:09:46.853000','2012-11-15 20:09:46.853000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,40,'2012-11-15 20:09:46.853000','2012-11-15 20:09:46.853000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,32,'2012-11-15 20:09:46.850000','2012-11-15 20:09:46.850000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,33,'2012-11-15 20:09:46.851000','2012-11-15 20:09:46.851000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,41,'2012-11-15 20:09:46.854000','2012-11-15 20:09:46.854000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,42,'2012-11-15 20:09:46.854000','2012-11-15 20:09:46.854000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,43,'2012-11-15 20:09:46.854000','2012-11-15 20:09:46.854000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,44,'2012-11-15 20:09:46.855000','2012-11-15 20:09:46.855000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,45,'2012-11-15 20:09:46.855000','2012-11-15 20:09:46.855000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,46,'2012-11-15 20:09:46.856000','2012-11-15 20:09:46.856000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,48,'2012-11-15 20:09:46.856000','2012-11-15 20:09:46.856000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,49,'2012-11-15 20:09:46.856000','2012-11-15 20:09:46.856000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,50,'2012-11-15 20:09:46.857000','2012-11-15 20:09:46.857000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,34,'2012-11-15 20:09:46.851000','2012-11-15 20:09:46.851000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,51,'2012-11-15 20:09:46.857000','2012-11-15 20:09:46.857000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,52,'2012-11-15 20:09:46.857000','2012-11-15 20:09:46.857000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,53,'2012-11-15 20:09:46.858000','2012-11-15 20:09:46.858000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,54,'2012-11-15 20:09:46.858000','2012-11-15 20:09:46.858000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,55,'2012-11-15 20:09:46.858000','2012-11-15 20:09:46.858000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,56,'2012-11-15 20:09:46.858000','2012-11-15 20:09:46.859000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,57,'2012-11-15 20:09:46.859000','2012-11-15 20:09:46.859000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,58,'2012-11-15 20:09:46.859000','2012-11-15 20:09:46.859000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,59,'2012-11-15 20:09:46.859000','2012-11-15 20:09:46.860000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,61,'2012-11-15 20:09:46.860000','2012-11-15 20:09:46.860000') RETURNING *;
+2012-11-15T20:09:46+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (4,62,'2012-11-15 20:09:46.860000','2012-11-15 20:09:46.860000') RETURNING *;
+2012-11-15T20:09:47+00:00 heroku[router]: at=info method=POST path=/user/4305305/addTransaction host=tokenservice.herokuapp.com fwd= dyno=web.1 queue=0 wait=0ms connect=1ms service=2129ms status=200 bytes=100
+2012-11-15T20:09:47+00:00 app[web.1]: info: Updated last transaction time for recipient: 1063230066
+2012-11-15T20:09:47+00:00 app[web.1]: Executing: UPDATE "Users" SET "userID"='1063230066',"name"=NULL,"registrationPlatform"=NULL,"lastTransactionTime"='2012-11-15 20:09:44.424000',"id"=4,"createdAt"='2012-10-05 23:54:29.413000',"updatedAt"='2012-11-15 20:09:47.63000' WHERE "id"=4
+2012-11-15T20:09:47+00:00 app[web.1]: info: Successfully added transaction to sender: 4305305 and recipient: 1063230066
+2012-11-15T20:09:47+00:00 app[web.1]: info: Added transaction to recipient: 1063230066
+2012-11-15T20:09:47+00:00 app[web.1]: info: Recieved date 1353010125280
+2012-11-15T20:09:47+00:00 app[web.1]: info: Sync request with body {"lastTransaction":"1353010125280"}
+2012-11-15T20:09:47+00:00 app[web.1]: Executing: SELECT * FROM "Transactions";
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349463678650
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349463759460
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349463809488
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349468112508
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349475286491
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349475926152
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349481267447
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349474230359
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349420221103
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349481294409
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349481391551
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349733225323
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349924764583
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1349927761350
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1350494160401
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1350494207200
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1350528456700
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1350528473249
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1351281302531
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1351281333726
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1351286074187
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1351922492200
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694329766
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352696725378
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352697377400
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694746173
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694496931
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694618104
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352696719767
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694734945
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352696130529
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352694756413
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352697367533
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352697806117
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698634761
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698657260
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698667770
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698691630
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698750535
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698793434
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698804946
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698812915
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698820454
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698906381
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352745671556
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352700124898
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698944790
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352745000847
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352745506920
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352854428222
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352698857468
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352858137977
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352914252266
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352792986730
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352792932410
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352914211134
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352869856663
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352870007377
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352870521181
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1352870871500
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1353010125280
+2012-11-15T20:09:47+00:00 app[web.1]: info: 1353010184424
+2012-11-15T20:09:47+00:00 app[web.1]: info: Server has New Transactions
+2012-11-15T20:10:39+00:00 app[web.1]: info: Add Transaction request for user 4305305 with body {"recipientID":"2535644","tokenValue":1,"actionName":"Cooking dinner","time":1352871182121}
+2012-11-15T20:10:39+00:00 app[web.1]: info: Creating transaction with sender 4305305 and recipient 2535644 and time 1352871182121
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: INSERT INTO "Transactions" ("senderID","recipientID","tokenValue","actionName","time","createdAt","updatedAt","comment") VALUES ('4305305','2535644',1,'Cooking dinner','2012-11-14 5:33:02.121000','2012-11-15 20:10:39.606000','2012-11-15 20:10:39.606000',NULL) RETURNING *;
+2012-11-15T20:10:39+00:00 app[web.1]: info: Successfully created transaction
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "Users" WHERE "userID"='4305305' LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=1 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=1 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=9 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=10 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=1 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=11 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=13 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=14 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=17 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=18 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=21 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=23 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=24 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=25 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=26 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=27 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=28 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=29 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=30 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=31 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=32 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=35 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=36 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=33 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=34 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=43 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=37 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=38 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=39 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=40 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=41 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=42 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=44 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=45 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=46 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=47 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=48 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=49 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=50 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=51 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=52 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=53 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=54 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=55 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=56 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=57 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=58 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=59 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=60 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=61 LIMIT 1;
+2012-11-15T20:10:39+00:00 app[web.1]: Executing: SELECT * FROM "TransactionsUsers" WHERE "UserId"=1 AND "TransactionId"=62 LIMIT 1;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=1 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=9 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=10 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=11 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=13 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=14 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=17 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=18 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=21 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=23 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=24 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=25 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=26 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=27 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=28 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=29 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=30 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=31 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=32 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=33 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=34 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=35 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=36 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=37 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=38 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=40 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=39 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=41 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=42 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=43 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=47 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=48 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=44 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=45 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=46 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=49 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:
+40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=51 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=50 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=52 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=54 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=55 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=53 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=56 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=57 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=59 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=58 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=60 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=62 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: DELETE FROM "TransactionsUsers" WHERE ("TransactionId","UserId") IN (SELECT "TransactionId","UserId" FROM "TransactionsUsers" WHERE "TransactionId"=61 AND "UserId"=1 LIMIT 1)
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,1,'2012-11-15 20:10:40.773000','2012-11-15 20:10:40.773000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,17,'2012-11-15 20:10:40.775000','2012-11-15 20:10:40.775000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,18,'2012-11-15 20:10:40.776000','2012-11-15 20:10:40.776000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,13,'2012-11-15 20:10:40.774000','2012-11-15 20:10:40.775000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,21,'2012-11-15 20:10:40.776000','2012-11-15 20:10:40.776000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,9,'2012-11-15 20:10:40.773000','2012-11-15 20:10:40.773000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,10,'2012-11-15 20:10:40.774000','2012-11-15 20:10:40.774000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,11,'2012-11-15 20:10:40.774000','2012-11-15 20:10:40.774000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,14,'2012-11-15 20:10:40.775000','2012-11-15 20:10:40.775000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,23,'2012-11-15 20:10:40.777000','2012-11-15 20:10:40.777000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,32,'2012-11-15 20:10:40.791000','2012-11-15 20:10:40.791000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,33,'2012-11-15 20:10:40.791000','2012-11-15 20:10:40.792000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,24,'2012-11-15 20:10:40.777000','2012-11-15 20:10:40.777000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,25,'2012-11-15 20:10:40.777000','2012-11-15 20:10:40.778000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,26,'2012-11-15 20:10:40.778000','2012-11-15 20:10:40.778000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,27,'2012-11-15 20:10:40.778000','2012-11-15 20:10:40.778000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,28,'2012-11-15 20:10:40.779000','2012-11-15 20:10:40.779000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,34,'2012-11-15 20:10:40.792000','2012-11-15 20:10:40.792000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,29,'2012-11-15 20:10:40.788000','2012-11-15 20:10:40.789000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,30,'2012-11-15 20:10:40.789000','2012-11-15 20:10:40.789000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,36,'2012-11-15 20:10:40.793000','2012-11-15 20:10:40.793000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,37,'2012-11-15 20:10:40.793000','2012-11-15 20:10:40.793000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,38,'2012-11-15 20:10:40.793000','2012-11-15 20:10:40.793000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,39,'2012-11-15 20:10:40.794000','2012-11-15 20:10:40.794000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,40,'2012-11-15 20:10:40.794000','2012-11-15 20:10:40.794000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,41,'2012-11-15 20:10:40.794000','2012-11-15 20:10:40.794000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,42,'2012-11-15 20:10:40.795000','2012-11-15 20:10:40.795000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,43,'2012-11-15 20:10:40.795000','2012-11-15 20:10:40.795000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,44,'2012-11-15 20:10:40.795000','2012-11-15 20:10:40.795000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,45,'2012-11-15 20:10:40.796000','2012-11-15 20:10:40.796000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,31,'2012-11-15 20:10:40.790000','2012-11-15 20:10:40.791000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,35,'2012-11-15 20:10:40.792000','2012-11-15 20:10:40.792000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,48,'2012-11-15 20:10:40.797000','2012-11-15 20:10:40.797000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,49,'2012-11-15 20:10:40.797000','2012-11-15 20:10:40.797000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,50,'2012-11-15 20:10:40.798000','2012-11-15 20:10:40.798000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,51,'2012-11-15 20:10:40.798000','2012-11-15 20:10:40.798000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,52,'2012-11-15 20:10:40.798000','2012-11-15 20:10:40.799000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,53,'2012-11-15 20:10:40.799000','2012-11-15 20:10:40.799000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,54,'2012-11-15 20:10:40.800000','2012-11-15 20:10:40.801000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,55,'2012-11-15 20:10:40.801000','2012-11-15 20:10:40.801000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,46,'2012-11-15 20:10:40.796000','2012-11-15 20:10:40.796000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,47,'2012-11-15 20:10:40.796000','2012-11-15 20:10:40.796000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,56,'2012-11-15 20:10:40.801000','2012-11-15 20:10:40.801000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,57,'2012-11-15 20:10:40.802000','2012-11-15 20:10:40.802000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,58,'2012-11-15 20:10:40.802000','2012-11-15 20:10:40.802000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,59,'2012-11-15 20:10:40.802000','2012-11-15 20:10:40.802000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,60,'2012-11-15 20:10:40.802000','2012-11-15 20:10:40.803000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,61,'2012-11-15 20:10:40.803000','2012-11-15 20:10:40.803000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,62,'2012-11-15 20:10:40.803000','2012-11-15 20:10:40.803000') RETURNING *;
+2012-11-15T20:10:40+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (1,63,'2012-11-15 20:10:40.806000','2012-11-15 20:10:40.806000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: UPDATE "Users" SET "userID"='4305305',"name"=NULL,"registrationPlatform"=NULL,"lastTransactionTime"='2012-11-14 5:33:02.121000',"id"=1,"createdAt"='2012-10-05 6:55:03.401000',"updatedAt"='2012-11-15 20:10:41.95000' WHERE "id"=1
+2012-11-15T20:10:41+00:00 app[web.1]: info: Updated last transaction time for sender: 4305305
+2012-11-15T20:10:41+00:00 app[web.1]: info: Added transaction to sender: 4305305
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT "Users".* FROM "Users", "FriendsUsers" WHERE "FriendsUsers"."UserId"=1 AND "FriendsUsers"."FriendsId"="Users"."id";
+2012-11-15T20:10:41+00:00 app[web.1]: info: User 4305305 does not have friend 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "Users" WHERE "userID"='2535644' LIMIT 1;
+2012-11-15T20:10:41+00:00 app[web.1]: info: No record found for user 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: info: Creating record for user 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "Users" ("userID","createdAt","updatedAt","name","registrationPlatform","lastTransactionTime") VALUES ('2535644','2012-11-15 20:10:41.108000','2012-11-15 20:10:41.109000',NULL,NULL,NULL) RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: info: Successfully created record for user 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT "Users".* FROM "Users", "FriendsUsers" WHERE "FriendsUsers"."UserId"=1 AND "FriendsUsers"."FriendsId"="Users"."id";
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT "Users".* FROM "Users", "FriendsUsers" WHERE "FriendsUsers"."UserId"=1 AND "FriendsUsers"."FriendsId"="Users"."id";
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=2 LIMIT 1;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=5 LIMIT 1;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: DELETE FROM "FriendsUsers" WHERE ("UserId","FriendsId") IN (SELECT "UserId","FriendsId" FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=2 LIMIT 1)
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=4 LIMIT 1;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=9 LIMIT 1;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: DELETE FROM "FriendsUsers" WHERE ("UserId","FriendsId") IN (SELECT "UserId","FriendsId" FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=5 LIMIT 1)
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: DELETE FROM "FriendsUsers" WHERE ("User
+Id","FriendsId") IN (SELECT "UserId","FriendsId" FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=4 LIMIT 1)
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: DELETE FROM "FriendsUsers" WHERE ("UserId","FriendsId") IN (SELECT "UserId","FriendsId" FROM "FriendsUsers" WHERE "UserId"=1 AND "FriendsId"=9 LIMIT 1)
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "FriendsUsers" ("UserId","FriendsId","createdAt","updatedAt") VALUES (1,10,'2012-11-15 20:10:41.175000','2012-11-15 20:10:41.175000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "FriendsUsers" ("UserId","FriendsId","createdAt","updatedAt") VALUES (1,5,'2012-11-15 20:10:41.174000','2012-11-15 20:10:41.174000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "FriendsUsers" ("UserId","FriendsId","createdAt","updatedAt") VALUES (1,9,'2012-11-15 20:10:41.175000','2012-11-15 20:10:41.175000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "FriendsUsers" ("UserId","FriendsId","createdAt","updatedAt") VALUES (1,2,'2012-11-15 20:10:41.174000','2012-11-15 20:10:41.174000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "FriendsUsers" ("UserId","FriendsId","createdAt","updatedAt") VALUES (1,4,'2012-11-15 20:10:41.175000','2012-11-15 20:10:41.175000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: info: Added friend 2535644 to user 4305305
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=10 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT "Transactions".* FROM "Transactions", "TransactionsUsers" WHERE "TransactionsUsers"."UserId"=10 AND "TransactionsUsers"."TransactionId"="Transactions"."id";
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: INSERT INTO "TransactionsUsers" ("UserId","TransactionId","createdAt","updatedAt") VALUES (10,63,'2012-11-15 20:10:41.202000','2012-11-15 20:10:41.202000') RETURNING *;
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: UPDATE "Users" SET "userID"='2535644',"id"=10,"createdAt"='2012-11-15 20:10:41.108000',"updatedAt"='2012-11-15 20:10:41.249000',"name"=NULL,"registrationPlatform"=NULL,"lastTransactionTime"='2012-11-14 5:33:02.121000' WHERE "id"=10
+2012-11-15T20:10:41+00:00 app[web.1]: info: Added transaction to recipient: 2535644
+2012-11-15T20:10:41+00:00 heroku[router]: at=info method=POST path=/user/4305305/addTransaction host=tokenservice.herokuapp.com fwd= dyno=web.1 queue=0 wait=0ms connect=1ms service=1705ms status=200 bytes=97
+2012-11-15T20:10:41+00:00 app[web.1]: info: Successfully added transaction to sender: 4305305 and recipient: 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: info: Updated last transaction time for recipient: 2535644
+2012-11-15T20:10:41+00:00 app[web.1]: info: Sync request with body {"lastTransaction":"1353010125280"}
+2012-11-15T20:10:41+00:00 app[web.1]: Executing: SELECT * FROM "Transactions";
+2012-11-15T20:10:41+00:00 app[web.1]: info: Recieved date 1353010125280
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349420221103
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349474230359
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349475286491
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349475926152
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349468112508
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349481391551
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349463678650
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349481267447
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349481294409
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349463759460
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349463809488
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349733225323
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349924764583
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1349927761350
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1350494160401
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1350528456700
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1350528473249
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1351281302531
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1350494207200
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1351281333726
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1351286074187
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1351922492200
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694329766
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694496931
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694618104
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694734945
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694756413
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352694746173
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352696719767
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352696130529
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352696725378
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352697377400
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352697367533
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698634761
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352697806117
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698657260
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698906381
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698667770
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698812915
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698804946
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698691630
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698820454
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698750535
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698857468
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698793434
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352700124898
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352914211134
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352698944790
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352745000847
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352745506920
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352745671556
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352858137977
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352854428222
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352914252266
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352792932410
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352792986730
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352869856663
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1353010184424
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352871182121
+2012-11-15T20:10:41+00:00 app[web.1]: info: Server has New Transactions
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352870007377
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352870521181
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1352870871500
+2012-11-15T20:10:41+00:00 app[web.1]: info: 1353010125280
