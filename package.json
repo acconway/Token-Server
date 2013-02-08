@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"description": "token-web-service",
 	"version": "0.0.1",
 	"engines": {
@@ -23,29 +22,4 @@
 	"name": "Token",
 	"author": "Alexander Conway",
 	"homepage": "n/a"
-=======
-  "description": "Server for Token Project Alpha",
-  "version": "0.0.0",
-  "private": true,
-"engines":{
-"node":"0.8.8" 
-},
-  "dependencies": {
-    "union": "0.3.0",
-    "sequelize":"1.5.0",
-    "flatiron":"0.2.2",
-    "pg": "0.6.15"
-  },
-  "devDependencies": {
-    "api-easy": "0.3.2",
-    "vows": "0.6.1"
-  },
-  "scripts": {
-    "test": "vows --spec",
-    "start": "node app.js"
-  },
-  "name": "Token",
-  "author": "Alexander Conway",
-  "homepage": "n/a"
->>>>>>> 04eda5b48fd908f2d72ada2efcfb210685f6ceef
 }
